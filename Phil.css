@@ -1,0 +1,86 @@
+.hed {
+    text-align: center;
+    text-decoration: blink;
+    color: rgb(50, 50, 206);
+}
+
+article.body {
+    text-align: center;
+    width: auto;
+    height: auto;
+    font-size: large;
+    color: rgba(239, 243, 17, 0.904);
+}
+
+body.sen {
+    background-color: #d498f7;
+    font-size: x-large;
+    background-image: url(Work/jemma-pollari-ox9jExXqLhE-unsplash.jpg);
+}
+
+.go {
+    width: 300px;
+    height: 50px;
+}
+
+.mon {
+    width: 1350px;
+    height: 900px;
+}
+
+#close {
+    width: 500px;
+    align-content: left;
+}
+
+.red {
+    width: 250px;
+    height: 250px;
+}
+
+.blue {
+    width: 250px;
+    height: 250px;
+}
+
+#red {
+    width: 250px;
+    height: 250px;
+}
+
+#Wilderness {
+    background-image: url(Work/casey-horner-RmoWqDCqN2E-unsplash.jpg);
+    color: white;
+    font-size: large;
+}
+
+#Thoughts {
+    color: rgb(107, 107, 253);
+    background-image: url(Work/jemma-pollari-ox9jExXqLhE-unsplash.jpg);
+}
+
+#Monolouges {
+    color: green;
+    text-align: right;
+    background-image: url(Work/ken-cheung-knb82K29gjI-unsplash.jpg);
+}
+
+#Memories {
+    color: gold;
+    text-align: center;
+    background-image: url(work/clarisse-meyer-xXiKQ2AavlY-unsplash.jpg);
+}
+
+#Confusion {
+    color: rgb(97, 20, 151);
+    background-image: url(Work/ima.jpg);
+}
+
+#click {
+    align-items: center;
+    background-image: url(Work/warren-wong-fNUNt9w3m-Q-unsplash.jpg);
+}
+
+#body {
+    background-image: url(Work/ken-cheung-knb82K29gjI-unsplash.jpg);
+}
